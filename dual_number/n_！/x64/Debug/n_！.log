@@ -1,0 +1,4 @@
+﻿  main.c
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\dual_number\n_！\main.c(22,21): warning C4013: “malloc”未定义；假设外部返回 int
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\dual_number\n_！\main.c(22,32): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+  n_！.vcxproj -> R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\dual_number\x64\Debug\n_！.exe

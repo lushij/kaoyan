@@ -1,0 +1,4 @@
+﻿  main.c
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\dual_number\indicator\main.c(7,7): warning C4047: “初始化”:“int *”与“int (*)[5]”的间接级别不同
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\dual_number\indicator\main.c(8,8): warning C4047: “初始化”:“char *”与“char (*)[6]”的间接级别不同
+  indicator.vcxproj -> R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\dual_number\x64\Debug\indicator.exe

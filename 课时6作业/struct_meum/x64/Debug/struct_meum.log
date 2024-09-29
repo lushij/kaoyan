@@ -1,0 +1,4 @@
+﻿  main.c
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\课时6作业\struct_meum\main.c(25,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\课时6作业\struct_meum\main.c(25,9): message : 请考虑在格式字符串中使用“%zd”
+  struct_meum.vcxproj -> R:\Users\lushiji\Desktop\考研\专业课\数据结构\code\课时6作业\x64\Debug\struct_meum.exe
