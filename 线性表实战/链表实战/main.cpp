@@ -34,6 +34,11 @@ void insert_tail_list(LinkList& l)
 		scanf("%d", &data);
 	}
 }
+//删除
+void delete_list(LinkList& l)
+{
+
+}
 void print_list(LinkList& l)
 {
 	LinkList cur = l->next;
@@ -48,8 +53,8 @@ int main()
 {
 	LinkList l = (LinkList)malloc(sizeof(Lnode));//存储头节点的头指针
 	l->next = NULL;
-	//insert_head_list(l);
-	insert_tail_list(l);
+	//insert_head_list(l);//头插法
+	insert_tail_list(l);//尾插法
 	print_list(l);
 	return 0;
 }
