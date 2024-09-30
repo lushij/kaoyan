@@ -46,7 +46,7 @@ void print_list(LinkList& l)
 }
 int main()
 {
-	LinkList l = (LinkList)malloc(sizeof(Lnode));//�洢ͷ�ڵ��ͷָ��
+	LinkList l = (LinkList)malloc(sizeof(Lnode));//存储头节点的头指针
 	l->next = NULL;
 	//insert_head_list(l);
 	insert_tail_list(l);
