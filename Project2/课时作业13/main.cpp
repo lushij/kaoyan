@@ -2,6 +2,7 @@
 #include<stdio.h>
 typedef int ElemType;
 #define MaxSize 50
+//包含栈和循环队列的知识
 
 //栈
 typedef struct {
