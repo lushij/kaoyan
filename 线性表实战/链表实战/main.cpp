@@ -98,3 +98,9 @@ int main()
 	print_list(l);
 	return 0;
 }
+
+
+
+sudo docker run -d -p 27017:27017 --name mongo -v /usr/local/mongo/data/db:/data/db -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_ROOT_PASSWORD=123456 mongo --config /usr/local/mongo/conf/mongo.conf
+
+sudo docker run -d -p 27017:27017 --name mongo -v /usr/local/mongo:/etc/mongo -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_ROOT_PASSWORD=123456 mongo --config /etc/mongo/conf/mongo.conf
