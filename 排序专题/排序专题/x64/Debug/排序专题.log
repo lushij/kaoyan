@@ -1,0 +1,3 @@
+﻿  main.cpp
+R:\Users\lushiji\Desktop\考研\专业课\数据结构\kaoyan\排序专题\排序专题\main.cpp(9,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  排序专题.vcxproj -> R:\Users\lushiji\Desktop\考研\专业课\数据结构\kaoyan\排序专题\x64\Debug\堆排序.exe
